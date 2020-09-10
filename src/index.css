@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  font-size: 25px;
+  display:inline-block;
+ padding: 15px 32px;
+ box-sizing: border-box;
+ text-decoration:none;
+ font-family:'Roboto',sans-serif;
+ font-weight:300;
+ color:#FFFFFF;
+ text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+ text-align:center;
+ transition: all 0.2s;
+background-color:#B4869F;
+
+}
+
+ a {
+  color: white;
+}
+
+h1 {
+  background-color: #985F6F;
+  color: white;
+  padding: 20px;
+}
